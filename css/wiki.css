@@ -1,7 +1,10 @@
 .col-md-2{
   float: right;
+  margin-top: -65px;
 }
 
-ul {
-  margin-top: -75px
+
+
+panel-heading.ul {
+  margin-top: none;
 }
